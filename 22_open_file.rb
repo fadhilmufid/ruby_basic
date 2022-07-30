@@ -1,4 +1,5 @@
 #how to open file
+#file name and "r" for read
 File.open("22_open_file.txt", "r") do |file|
 
     #puts file.readlines()
