@@ -1,5 +1,5 @@
 #create class to create data types 
-#in ruby everything si an object
+#in ruby everything si an object that have classes taht define that
 class Book
     #define the attributes
     attr_accessor :title, :author, :pages
